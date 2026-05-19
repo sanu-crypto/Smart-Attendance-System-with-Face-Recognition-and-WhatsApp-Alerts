@@ -37,13 +37,13 @@ except Exception as e:
 # ---------------- WHATSAPP CONFIG ----------------
 
 # ✅ CHANGE HERE: Use your Twilio Account SID
-TWILIO_ACCOUNT_SID = "AC14*****************0419493534c9"
+TWILIO_ACCOUNT_SID = "AC14*****************0419493534c9"#to get this go to twilio and get sid
 
 # ✅ CHANGE HERE: Regenerate your Twilio Auth Token and paste new token here
-TWILIO_AUTH_TOKEN = "5a58210*****************b5fb2075"
+TWILIO_AUTH_TOKEN = "5a58210*****************b5fb2075"#to get this go to twilio and get token after signing in
 
 # Twilio WhatsApp sandbox number
-TWILIO_WHATSAPP_NUMBER = "whatsapp:+14155238886"
+TWILIO_WHATSAPP_NUMBER = "whatsapp:+14155238886"#
 
 # ✅ CHANGE HERE: Names must match known_faces image names
 student_numbers = {
